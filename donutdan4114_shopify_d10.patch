@@ -1,0 +1,13 @@
+diff --git a/composer.json b/composer.json
+index 959e41e..d676ea3 100644
+--- a/composer.json
++++ b/composer.json
+@@ -2,7 +2,7 @@
+   "name": "donutdan4114/shopify",
+   "description": "Shopify PHP SDK to interact with the Shopify API.",
+   "require": {
+-    "guzzlehttp/guzzle": "~6.0",
++    "guzzlehttp/guzzle": "~7.0",
+     "php": ">=5.5.0"
+   },
+   "autoload": {
